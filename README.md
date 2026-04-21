@@ -1,7 +1,7 @@
 # Fraud Detection System (Machine Learning)
 
 <p align="center">
-  <img src="assets/banner.png" alt="Fraud Detection Banner" width="100%">
+  <img src="assets/banner.png" width="100%">
 </p>
 
 <p align="center">
